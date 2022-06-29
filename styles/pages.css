@@ -1,0 +1,27 @@
+/* home */
+
+.home_container {
+    height: 100%;
+}
+.home_container h4 {
+    max-width: 45ch;
+    z-index: 2;
+}
+/* .home_background { */
+    
+/* }
+.home_background h4 {
+    max-width: 45ch;
+    z-index: 1;
+} */
+.home_background_div {
+    /* bg-green-800 w-64 h-64 fixed left-72 */
+    /* z-index: 1; */
+    background-color: green;
+    width: 51%;
+    height: 10%;
+    position: fixed;
+    top: 34%;
+    left: 23%;
+    border-radius: 1rem;
+}
